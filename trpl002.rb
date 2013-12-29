@@ -52,4 +52,13 @@ describe "Some Ruby Classes" do
     nil.class.should == NilClass
   end
 
+  #----- User-Defined Class C -----------
+
+  class C
+  end
+
+  it "Should be a C Class" do
+    C.new.class.should == C
+  end
+
 end
