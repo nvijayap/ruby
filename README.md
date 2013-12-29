@@ -1,9 +1,9 @@
 ruby
 ====
 
-Ruby Snippets
+<b>Ruby Snippets</b>
 
-Tested in this environment ...
+<b>Tested in this environment ...</b>
 
 $ sw_vers<br>
 ProductName:	Mac OS X<br>
