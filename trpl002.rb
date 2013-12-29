@@ -3,7 +3,7 @@ describe "Some Ruby Classes" do
   #----- String, Fixnum, Float ------
 
   it "Should be a String" do
-    9.class.should == Fixnum
+    "Joe".class.should == String
   end
 
   it "Should be a Fixnum" do
