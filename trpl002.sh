@@ -1,3 +1,4 @@
+#!/bin/bash
 
 cat trpl002.rb
 
